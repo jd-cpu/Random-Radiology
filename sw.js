@@ -1,4 +1,4 @@
-const CACHE_NAME = 'quiz-cache-v3';
+const CACHE_NAME = 'quiz-cache-v4';
 const FILES = [
   './index.html',
   './manifest.json',
@@ -64,7 +64,8 @@ const FILES = [
   './55.png',
   './56.png',
   './57.png',
-  './58.png'
+  './58.png',
+  './59.png'
 ];
 
 self.addEventListener('install', evt => {
